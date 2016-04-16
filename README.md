@@ -5,7 +5,7 @@
 * Sim Karte
 
 ###Camping
-* [] Stirnlampe
+* [ ] Stirnlampe
 * Schlafsack
 * Isomatte
 * Zelt
@@ -70,6 +70,7 @@
 
 ##Kópavagur
 * Einkaufszentrum Smáralind
+* Gaskartusche
 
 ##Skaftafell
 * Svartifoss 
