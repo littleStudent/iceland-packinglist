@@ -5,7 +5,7 @@
 * Sim Karte
 
 ###Camping
-* Stirnlampe
+* [] Stirnlampe
 * Schlafsack
 * Isomatte
 * Zelt
@@ -68,6 +68,8 @@
 * ? Sa:Egilsstadir
 * Mi: Rejkyavik
 
+##Kópavagur
+* Einkaufszentrum Smáralind
 
 ##Skaftafell
 * Svartifoss 
