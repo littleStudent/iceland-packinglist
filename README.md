@@ -1,11 +1,7 @@
 #Packliste
 
-
-###Einkaufen in Iceland
-* Sim Karte
-
 ###Camping
-* [ ] Stirnlampe
+* Stirnlampe
 * Schlafsack
 * Isomatte
 * Zelt
@@ -56,6 +52,13 @@
 * IPad
 
 
+#Einkaufen in Iceland (Kópavagur -> Smáralind)
+* Sim Karte
+* Gaskartusche
+* Muellsacke
+* Essen
+* Trinken
+
 #Plan
 
 * So: Thingvellir, Laugarvatn
@@ -67,10 +70,6 @@
 * ? Sa:F88 -> Askja
 * ? Sa:Egilsstadir
 * Mi: Rejkyavik
-
-##Kópavagur
-* Einkaufszentrum Smáralind
-* Gaskartusche
 
 ##Skaftafell
 * Svartifoss 
