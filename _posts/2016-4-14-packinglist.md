@@ -1,6 +1,13 @@
-#Packliste
+---
+layout: post
+title: Packing List!
+categories: [general, setup, demo]
+tags: [demo, dbyll, dbtek, setup]
+fullview: true
+comments: true
+---
 
-###Camping
+### Camping
 * Stirnlampe
 * Schlafsack
 * Isomatte
@@ -10,7 +17,7 @@
 * Handwaschmittel
 * Augenbinde
 
-###Allgemein
+### Allgemein
 * Leatherman
 * Besteck
 * Thermoskanne
@@ -20,7 +27,7 @@
 
 
 
-###Gewand / Schuhe
+### Gewand / Schuhe
 * Badehose / Bikini
 * Unterleiberl
 * Bergschuhe (schwer)
@@ -37,14 +44,14 @@
 * Schlafzeugs (Hose + Leiberl)
 * Thermounterwaesche (?)
 
-###Essen
+### Essen
 * Salz / Pfeffer
 * Bier
 
-###Sonstiges
+### Sonstiges
 * Batterien
 
-###Technik
+### Technik
 * Canon
 * GoPro / Contour
 * Autostecker
@@ -52,14 +59,16 @@
 * IPad
 
 
-#Einkaufen in Iceland (Kópavagur -> Smáralind)
+## Einkaufen in Iceland (Kópavagur -> Smáralind)
 * Sim Karte
 * Gaskartusche
 * Muellsacke
-* Essen
+* Essen (Konserven, Nudeln, Saucen, Suppen, Reis, 
 * Trinken
+* Spuelmittel
+* Schuesseln, Besteck, Becher (Plastik)
 
-#Plan
+## Plan
 
 * So: Thingvellir, Laugarvatn
 * Mo: Gulfoss, Fahrt nach Landmanalaugar
@@ -71,8 +80,8 @@
 * ? Sa:Egilsstadir
 * Mi: Rejkyavik
 
-##Skaftafell
+## Skaftafell
 * Svartifoss 
 
-#Todo
+# Todo
 * Kamera USB-Laden
