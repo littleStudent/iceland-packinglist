@@ -70,15 +70,15 @@ comments: true
 
 ## Plan
 
-* So: Thingvellir, Laugarvatn
-* Mo: Gulfoss, Fahrt nach Landmanalaugar
-* Di: Landmanalaugar
-* Mi: Laugafell (Hochlandfahrt)
-* Do: Godafoss, Husavik
-* Fr: Myvatn, Dettifoss
-* ? Sa:F88 -> Askja
-* ? Sa:Egilsstadir
-* Mi: Rejkyavik
+* So 31.7 - Thingvellir, Laugarvatn
+* Mo 1.8 - Gulfoss, Fahrt nach Landmanalaugar
+* Di 2.8 - Landmanalaugar
+* Mi 3.8 - Laugafell (Hochlandfahrt)
+* Do 4.8 - Godafoss, Husavik
+* Fr 5.8 - Myvatn, Dettifoss
+* Sa 6.8 - F88 -> Askja
+* So 7.8 - Egilsstadir
+* Mi 10.8 - Rejkyavik
 
 ## Skaftafell
 * Svartifoss 
